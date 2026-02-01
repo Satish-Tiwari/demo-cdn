@@ -61,7 +61,7 @@ document.head.appendChild(script);
 The `_headers` file configures optimal caching behavior:
 
 ```
-/cdn/native-framework/*
+/cdn/*
   Cache-Control: public, max-age=31536000, immutable
   Access-Control-Allow-Origin: *
   X-Content-Type-Options: nosniff
