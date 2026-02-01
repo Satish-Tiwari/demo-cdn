@@ -11,6 +11,7 @@ demo-cdn/
     │   └── native-framework/
     │       └── bundle.v1.0.0.min.js
     ├── _headers
+    ├── LICENSE
     └── README.md
 ```
 
